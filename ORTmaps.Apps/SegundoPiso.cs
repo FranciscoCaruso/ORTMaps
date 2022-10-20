@@ -109,5 +109,20 @@ namespace ORTmaps.Apps
             MenuApp Nuevaventana = new MenuApp();
             Nuevaventana.Show(); //el inicio es a la pantalla a la que quiero ir y this representa esta pantalla
         }
+
+        private void OF2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void L205_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
