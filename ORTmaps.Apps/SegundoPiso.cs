@@ -124,5 +124,20 @@ namespace ORTmaps.Apps
         {
 
         }
+
+        private void PBhasta_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void L206_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
