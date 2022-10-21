@@ -48,3 +48,4 @@ C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.csproj.C
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.exe
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.pdb
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.MapaExterior.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Opciones_R.resources
