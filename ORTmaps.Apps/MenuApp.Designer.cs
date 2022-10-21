@@ -58,6 +58,7 @@
             this.btnMapaMenu.Size = new System.Drawing.Size(198, 43);
             this.btnMapaMenu.TabIndex = 2;
             this.btnMapaMenu.UseVisualStyleBackColor = false;
+            this.btnMapaMenu.Click += new System.EventHandler(this.BtnMapaMenu_Click);
             // 
             // btnMapaOrtMenu
             // 

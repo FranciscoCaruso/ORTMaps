@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MapaExterior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapaExterior.Designer.cs">
+      <DependentUpon>MapaExterior.cs</DependentUpon>
+    </Compile>
     <Compile Include="MapaORT.Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +63,24 @@
     </Compile>
     <Compile Include="MenuApp.Designer.cs">
       <DependentUpon>MenuApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpcionesK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpcionesK.Designer.cs">
+      <DependentUpon>OpcionesK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opcionesL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="opcionesL.Designer.cs">
+      <DependentUpon>opcionesL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpcionesR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpcionesR.Designer.cs">
+      <DependentUpon>OpcionesR.cs</DependentUpon>
     </Compile>
     <Compile Include="PlantaBaja.cs">
       <SubType>Form</SubType>
@@ -90,11 +114,20 @@
     <Compile Include="TercerPiso.Designer.cs">
       <DependentUpon>TercerPiso.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="MapaExterior.resx">
+      <DependentUpon>MapaExterior.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MapaORT.Menu.resx">
       <DependentUpon>MapaORT.Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuApp.resx">
       <DependentUpon>MenuApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opcionesL.resx">
+      <DependentUpon>opcionesL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpcionesR.resx">
+      <DependentUpon>OpcionesR.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PlantaBaja.resx">
       <DependentUpon>PlantaBaja.cs</DependentUpon>
