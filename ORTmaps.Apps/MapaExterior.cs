@@ -42,5 +42,12 @@ namespace ORTmaps.Apps
             opcionesK.Show();
             this.Hide();
         }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            Form MenuApp = new MenuApp();
+            MenuApp.Show();
+            this.Hide();
+        }
     }
 }

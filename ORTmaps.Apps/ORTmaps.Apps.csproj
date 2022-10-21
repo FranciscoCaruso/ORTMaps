@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forum libreria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forum libreria.Designer.cs">
+      <DependentUpon>Forum libreria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kiosco Simona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kiosco Simona.Designer.cs">
+      <DependentUpon>Kiosco Simona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Librería JLZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Librería JLZ.Designer.cs">
+      <DependentUpon>Librería JLZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lunaria Libros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lunaria Libros.Designer.cs">
+      <DependentUpon>Lunaria Libros.cs</DependentUpon>
+    </Compile>
     <Compile Include="MapaExterior.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,11 +88,11 @@
     <Compile Include="MenuApp.Designer.cs">
       <DependentUpon>MenuApp.cs</DependentUpon>
     </Compile>
-    <Compile Include="OpcionesK.cs">
+    <Compile Include="Opciones K.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="OpcionesK.Designer.cs">
-      <DependentUpon>OpcionesK.cs</DependentUpon>
+    <Compile Include="Opciones K.Designer.cs">
+      <DependentUpon>Opciones K.cs</DependentUpon>
     </Compile>
     <Compile Include="opcionesL.cs">
       <SubType>Form</SubType>
@@ -81,6 +105,12 @@
     </Compile>
     <Compile Include="OpcionesR.Designer.cs">
       <DependentUpon>OpcionesR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla Kiosco esquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla Kiosco esquina.Designer.cs">
+      <DependentUpon>Pantalla Kiosco esquina.cs</DependentUpon>
     </Compile>
     <Compile Include="PlantaBaja.cs">
       <SubType>Form</SubType>
@@ -108,12 +138,30 @@
     <Compile Include="SegundoPiso.Designer.cs">
       <DependentUpon>SegundoPiso.cs</DependentUpon>
     </Compile>
+    <Compile Include="Supermercado Coto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supermercado Coto.Designer.cs">
+      <DependentUpon>Supermercado Coto.cs</DependentUpon>
+    </Compile>
     <Compile Include="TercerPiso.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TercerPiso.Designer.cs">
       <DependentUpon>TercerPiso.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Forum libreria.resx">
+      <DependentUpon>Forum libreria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kiosco Simona.resx">
+      <DependentUpon>Kiosco Simona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Librería JLZ.resx">
+      <DependentUpon>Librería JLZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lunaria Libros.resx">
+      <DependentUpon>Lunaria Libros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MapaExterior.resx">
       <DependentUpon>MapaExterior.cs</DependentUpon>
     </EmbeddedResource>
@@ -123,11 +171,17 @@
     <EmbeddedResource Include="MenuApp.resx">
       <DependentUpon>MenuApp.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Opciones K.resx">
+      <DependentUpon>Opciones K.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="opcionesL.resx">
       <DependentUpon>opcionesL.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OpcionesR.resx">
       <DependentUpon>OpcionesR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla Kiosco esquina.resx">
+      <DependentUpon>Pantalla Kiosco esquina.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PlantaBaja.resx">
       <DependentUpon>PlantaBaja.cs</DependentUpon>
@@ -150,6 +204,9 @@
     </Compile>
     <EmbeddedResource Include="SegundoPiso.resx">
       <DependentUpon>SegundoPiso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supermercado Coto.resx">
+      <DependentUpon>Supermercado Coto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TercerPiso.resx">
       <DependentUpon>TercerPiso.cs</DependentUpon>

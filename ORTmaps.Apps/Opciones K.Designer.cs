@@ -1,6 +1,6 @@
 ﻿namespace ORTmaps.Apps
 {
-    partial class Opciones_L
+    partial class Opciones_K
     {
         /// <summary>
         /// Required designer variable.
@@ -36,45 +36,45 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(294, 28);
+            this.button1.Location = new System.Drawing.Point(293, 22);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(168, 75);
+            this.button1.Size = new System.Drawing.Size(189, 87);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Libreria JLZ";
+            this.button1.Text = "Kiosco esquina";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.Button1_Click_1);
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(294, 128);
+            this.button2.Location = new System.Drawing.Point(293, 131);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(168, 75);
+            this.button2.Size = new System.Drawing.Size(189, 87);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Forum Libreria ";
+            this.button2.Text = "Kiosco Simona";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(294, 237);
+            this.button3.Location = new System.Drawing.Point(293, 255);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(168, 75);
+            this.button3.Size = new System.Drawing.Size(189, 87);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Lunaria Libros";
+            this.button3.Text = "Superemercado Coto";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(599, 22);
+            this.button4.Location = new System.Drawing.Point(658, 22);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(166, 80);
+            this.button4.Size = new System.Drawing.Size(128, 68);
             this.button4.TabIndex = 3;
             this.button4.Text = "BACK";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.Button4_Click);
             // 
-            // Opciones_L
+            // Opciones_K
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -83,8 +83,8 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Opciones_L";
-            this.Text = "Opciones_L";
+            this.Name = "Opciones_K";
+            this.Text = "OpcionesK";
             this.ResumeLayout(false);
 
         }

@@ -49,3 +49,10 @@ C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.exe
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.pdb
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.MapaExterior.resources
 C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Opciones_R.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Opciones_K.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Pantalla_Kiosco_esquina.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Kiosco_Simona.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Supermercado_Coto.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Librería_JLZ.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Forum_libreria.resources
+C:\Users\47434108\Documents\ORTMaps\ORTmaps.Apps\obj\Debug\ORTmaps.Apps.Lunaria_Libros.resources

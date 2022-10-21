@@ -10,22 +10,17 @@ using System.Windows.Forms;
 
 namespace ORTmaps.Apps
 {
-    public partial class Opciones_R : Form
+    public partial class Librería_JLZ : Form
     {
-        public Opciones_R()
+        public Librería_JLZ()
         {
             InitializeComponent();
         }
 
-        private void Button14_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Button20_Click(object sender, EventArgs e)
-        {
-            Form MapaExterior = new MapaExterior();
-            MapaExterior.Show();
+            Form Opciones_L = new Opciones_L();
+            Opciones_L.Show();
             this.Hide();
         }
     }

@@ -10,31 +10,31 @@ using System.Windows.Forms;
 
 namespace ORTmaps.Apps
 {
-    public partial class Opciones_L : Form
+    public partial class Opciones_K : Form
     {
-        public Opciones_L()
+        public Opciones_K()
         {
             InitializeComponent();
         }
 
-        private void Button1_Click_1(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
-            Form Librería_JLZ = new Librería_JLZ();
-            Librería_JLZ.Show();
+            Form Pantalla_Kiosco_esquina = new Pantalla_Kiosco_esquina();
+            Pantalla_Kiosco_esquina.Show();
             this.Hide();
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            Form Forum_libreria = new Forum_libreria();
-            Forum_libreria.Show();
+            Form Kiosco_Simona = new Kiosco_Simona();
+            Kiosco_Simona.Show();
             this.Hide();
         }
 
         private void Button3_Click(object sender, EventArgs e)
         {
-            Form Lunaria_Libros = new Lunaria_Libros();
-            Lunaria_Libros.Show();
+            Form Supermercado_Coto = new Supermercado_Coto();
+            Supermercado_Coto.Show();
             this.Hide();
         }
 

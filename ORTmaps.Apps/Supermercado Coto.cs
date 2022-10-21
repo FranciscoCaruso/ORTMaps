@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace ORTmaps.Apps
 {
-    public partial class Opciones_K : Form
+    public partial class Supermercado_Coto : Form
     {
-        public Opciones_K()
+        public Supermercado_Coto()
         {
             InitializeComponent();
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            Form Opciones_K = new Opciones_K();
+            Opciones_K.Show();
+            this.Hide();
         }
     }
 }
